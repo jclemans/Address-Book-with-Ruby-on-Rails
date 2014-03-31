@@ -22,7 +22,3 @@ end
 group :test do
   gem 'shoulda-matchers'
 end
-
-group :doc do
-  gem 'sdoc', require: false
-end
